@@ -1,0 +1,7 @@
+C:\source\codeworks\finnal\Amazen\amazen-server\obj\Debug\net5.0\amazen-server.csprojAssemblyReference.cache
+C:\source\codeworks\finnal\Amazen\amazen-server\obj\Debug\net5.0\amazen-server.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\finnal\Amazen\amazen-server\obj\Debug\net5.0\amazen-server.AssemblyInfoInputs.cache
+C:\source\codeworks\finnal\Amazen\amazen-server\obj\Debug\net5.0\amazen-server.AssemblyInfo.cs
+C:\source\codeworks\finnal\Amazen\amazen-server\obj\Debug\net5.0\amazen-server.csproj.CoreCompileInputs.cache
+C:\source\codeworks\finnal\Amazen\amazen-server\obj\Debug\net5.0\amazen-server.MvcApplicationPartsAssemblyInfo.cs
+C:\source\codeworks\finnal\Amazen\amazen-server\obj\Debug\net5.0\amazen-server.MvcApplicationPartsAssemblyInfo.cache
